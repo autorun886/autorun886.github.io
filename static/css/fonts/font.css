@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'PuHuiTi_ExtraBold';
+    font-display: swap;
+    src: url('fontsi/Alibaba_PuHuiTi_2.0_95_ExtraBold_95_ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PuHuiTi_Heavy';
+    font-display: swap;
+    src: url('fonts/Alibaba_PuHuiTi_2.0_105_Heavy_105_Heavy.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PuHuiTi_SemiBold';
+    font-display: swap;
+    src: url('fonts/Alibaba_PuHuiTi_2.0_75_SemiBold_75_SemiBold.ttf') format('truetype');
+}
